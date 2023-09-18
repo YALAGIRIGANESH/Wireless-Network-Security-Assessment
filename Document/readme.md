@@ -7,10 +7,10 @@ TEAM DETAILS
 TEAM ID: LTVIP2023TMID06336 
 TEAM MEMBERS 
 Roll Number 	        Name 	                      Email 
-20F41A0490 	YALAGIGI GANESH 	ganeshgana5341@gmail.com 
-20F41A0434 	KOTIPATI CHINNA RAYUDU 	rayudukotipati@gmail.com 
-20F41A0455 	PASULA SREENATH REDDY 	rsreenathreddy1345@gmail.com 
-20F41A0453 	PAMINENI RAJESH 	rajeshnaidu91744@gmail.com 
+20F41A0490 	YALAGIGI GANESH          	ganeshgana5341@gmail.com 
+20F41A0434 	KOTIPATI CHINNA RAYUDU   	rayudukotipati@gmail.com 
+20F41A0455 	PASULA SREENATH REDDY    	rsreenathreddy1345@gmail.com 
+20F41A0453 	PAMINENI RAJESH          	rajeshnaidu91744@gmail.com 
  
  
  
